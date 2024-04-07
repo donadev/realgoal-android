@@ -11,6 +11,8 @@ The app is written in Java and uses a backend powered by Sails.js. It scrapes da
 
 RealGoal is an unmaintained project developed 7 years ago (2017), intended as a learning exercise for understanding app development, API integration, and web scraping.
 
+## Install
+Simple open the project in Android Studio, the code is ready to be built.
 ## Other repos
 
 - [Backend Repository](https://github.com/donadev/realgoal-bk)
