@@ -23,7 +23,7 @@ public class Service {
                                              .setLogLevel(RestAdapter.LogLevel.FULL)
                                              .setConverter(new GsonConverter(gson))
                                              .setClient(new OkClient(okHttpClient))
-                                             .setEndpoint("http://192.168.1.3:1337")
+                                             .setEndpoint("https://realgoal-bk-1.onrender.com/")
                                              .build();
         return adapter.create(APIManager.class);
     }
